@@ -1,6 +1,6 @@
-# TD3B (TR2-D2 Peptide) — Minimal Release
+# TD3B
 
-This repository is a slimmed-down, anonymized release focused on the **multi‑target TD3B** training path. It keeps only the code needed to run `launch_multi_target.sh` plus the `baselines/` folder.
+This repository is a slimmed-down, anonymized release focused on the **multi‑target TD3B** training path.
 
 ## Repository layout
 
